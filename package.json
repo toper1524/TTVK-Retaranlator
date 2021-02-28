@@ -18,6 +18,11 @@
   ],
   "author": "Vadim Perevertov",
   "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-vk-bot-api": "^3.4.0",
+    "tmi.js": "^1.7.2"
+  },
   "bugs": {
     "url": "https://github.com/toper1524/TTVK-Retaranlator/issues"
   },
