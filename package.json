@@ -1,0 +1,25 @@
+{
+  "name": "ttvk-retaranlator",
+  "version": "1.0.0",
+  "description": "Repeater messages from Twitch chat to VK chat.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toper1524/TTVK-Retaranlator.git"
+  },
+  "keywords": [
+    "twitch",
+    "vk",
+    "chat",
+    "repeater"
+  ],
+  "author": "Vadim Perevertov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toper1524/TTVK-Retaranlator/issues"
+  },
+  "homepage": "https://github.com/toper1524/TTVK-Retaranlator#readme"
+}
