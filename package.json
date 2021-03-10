@@ -4,6 +4,7 @@
   "description": "Repeater messages from Twitch chat to VK chat.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,10 +17,11 @@
     "chat",
     "repeater"
   ],
+  "type": "module",
   "author": "Vadim Perevertov",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
+    "node-json-db": "^1.1.0",
     "node-vk-bot-api": "^3.4.0",
     "tmi.js": "^1.7.2"
   },
